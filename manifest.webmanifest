@@ -1,0 +1,14 @@
+{
+  "name": "Agenda GB",
+  "short_name": "Agenda GB",
+  "description": "Painel e agenda pessoal",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0e1410",
+  "theme_color": "#0e1410",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

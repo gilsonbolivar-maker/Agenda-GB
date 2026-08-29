@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#16351f"/>
+  <rect x="86" y="110" width="340" height="300" rx="36" fill="#0e1410" stroke="#3dd68c" stroke-width="16"/>
+  <rect x="86" y="110" width="340" height="78" rx="36" fill="#1f6f4a"/>
+  <rect x="86" y="152" width="340" height="36" fill="#1f6f4a"/>
+  <circle cx="176" cy="140" r="16" fill="#3dd68c"/>
+  <circle cx="336" cy="140" r="16" fill="#3dd68c"/>
+  <text x="256" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="140" font-weight="700" fill="#3dd68c">GB</text>
+</svg>
